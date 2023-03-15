@@ -1,1 +1,2 @@
-Scripts to execute shell permissions
+#!/bin/bash
+shell permissions

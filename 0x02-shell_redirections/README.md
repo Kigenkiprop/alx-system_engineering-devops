@@ -1,1 +1,2 @@
-working with shell redirections
+#!/bin/bash
+0x02-shell_redirections

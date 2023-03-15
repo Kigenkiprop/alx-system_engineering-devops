@@ -1,2 +1,2 @@
-How to initialize files
-Learning about variables and expansions
+#!/bin/bash
+Shell, init files, variables and expansions
