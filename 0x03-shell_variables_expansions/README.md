@@ -1,2 +1,1 @@
-#!/bin/bash
-Shell, init files, variables and expansions
+This directory contains shell variables expansions basics
