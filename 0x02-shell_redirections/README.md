@@ -1,5 +1,1 @@
-shell redirection 
-0-hello world
-
-
-
+This is the 0x02-shell_redirections
